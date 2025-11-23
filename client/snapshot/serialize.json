@@ -1,0 +1,19 @@
+{
+  "collections": null,
+  "flows": null,
+  "pipelines": null,
+  "transformers": [
+    {
+      "name": "new transformer for testing stuff",
+      "pid": 20,
+      "isDeleted": false
+    }
+  ],
+  "saveCheckpoints": null,
+  "incidentBacklogs": null,
+  "terminates": null,
+  "orchestrators": null,
+  "userLibraries": null,
+  "connectorEntities": null,
+  "connectors": null
+}
