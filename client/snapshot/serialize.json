@@ -9,9 +9,27 @@
       "isDeleted": false
     }
   ],
-  "saveCheckpoints": null,
-  "incidentBacklogs": null,
-  "terminates": null,
+  "saveCheckpoints": [
+    {
+      "name": "lets add a checkpoint",
+      "pid": 6,
+      "isDeleted": false
+    }
+  ],
+  "incidentBacklogs": [
+    {
+      "name": "an incident",
+      "pid": 7,
+      "isDeleted": false
+    }
+  ],
+  "terminates": [
+    {
+      "name": "and a terminate rule file",
+      "pid": 9,
+      "isDeleted": false
+    }
+  ],
   "orchestrators": null,
   "userLibraries": null,
   "connectorEntities": null,
